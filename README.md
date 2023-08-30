@@ -1,4 +1,4 @@
-This notebook implements a linear regression model to predict the price of apartments in Rio Grande do Sul. The data used for this analysis is from the Brasil Real Estate dataset.
+This notebook implements a linear regression model to predict the price of apartments in Rio Grande do Sul, a city in Brazil, using the size of the apartment. The data used for this analysis is from the Brasil Real Estate dataset.
 
 The notebook is divided into the following sections:
 
@@ -8,4 +8,4 @@ Feature Engineering
 Model Building
 Model Evaluation
 Model Communication
-The results of the analysis show that the linear regression model is able to predict the price of apartments in Rio Grande do Sul.
+The results of the analysis show that the linear regression model is able to predict the price of apartments in Rio Grande do Sul, using the price of the apartmnet.
